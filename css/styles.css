@@ -764,15 +764,16 @@ letter-spacing: 0.04em;
 color: #8E8F99;
 display: inline-block;
 }
+
 .input-wrap{
   position: relative;
-transform: translateY(-50%);
 }
 
 .input-icon{
   fill: #2E2F42;
   position: absolute;
   top: 50%;
+  transform: translateY(-50%);
   left: 16px;
 }
 
