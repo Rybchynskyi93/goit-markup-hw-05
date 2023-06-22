@@ -881,7 +881,7 @@ img {
 }
 
 .check-span {
-  display: inline-flex;
+  /* display: inline-flex; */
 }
 
 .check-privacy {
