@@ -767,6 +767,10 @@ img {
   fill: #4d5ae5;
 }
 
+.modal-field-comment {
+  margin-bottom: 16px;
+}
+
 .modal-lable {
   font-size: 12px;
   line-height: 1.17;
@@ -846,6 +850,10 @@ img {
     box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.modal-field-chek {
+  margin-bottom: 24px;
+}
+
 .input-check {
 }
 
@@ -857,7 +865,6 @@ img {
   display: flex;
   gap: 8px;
   align-items: center;
-  margin-bottom: 24px;
 }
 
 .check-text span {
